@@ -1,4 +1,4 @@
-# data-wrangling-and-investigation
+# Data Wrangling and Investigation
 ## by Ukachi Agnes Eze-Mbey
 
 ## Dataset
@@ -11,9 +11,9 @@ The following steps werr carried out in the inestigation:
 >b. Furthermore, i cleaned the data set: I dropped columns not necessary for further investigation and renamed mis-spelt headiings, ambiguous elements and changed the data types of some columns which needed changing.
 
 >c. Finally, for visualization, i used functions to allow for easier readability
-## Summary of Findings
 
 
+## Key Insights of Investigation
 > There are 65% female patients and 35% male patients
 > 
 > The median age is 37 years with the minimum at 0 amd maximum of 115 years.
@@ -29,3 +29,18 @@ The following steps werr carried out in the inestigation:
 > 32.1% of patients received sms reminders while 67.89% did not receive any sms reminders.
 > 
 > Only 20.19% of patients missed their appointment day. 79.81% showed up on their appointment day.
+
+## Summary of Findings
+> Having a scholarship has no effect on patient's showing up for their appointment. 
+> 
+> The patients without scholarship showed up alot more in numbers and percentage.
+> 
+> Although there are more women than men, the average percentage of women who showed up for their appointment is equal to men.
+
+> Receiving an SMS reminder has no effect on patients showing up for their appointments as more patients showed up when they did not receive the SMS
+
+> Patients with diabetes have a higher showup rate than patients without.
+
+> Patients with hyper tension have a higher appointment show up rate when compared to patients without.
+
+> In general, patients with incurable illnesses are more likely to show up for their appointments copmared to patients without.
